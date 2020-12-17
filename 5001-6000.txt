@@ -1,10 +1,10 @@
 Frame_width: 128 Frame_height: 128 First_frame_name: 10463 Last_frame_name: 12436
 Frame_name: 10463.jpg Frame_number: 0
-Rect_id: 10463 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 10463 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 10464.jpg Frame_number: 1
 Rect_id: 10464 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 10465.jpg Frame_number: 2
-Rect_id: 10465 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
+Rect_id: 10465 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 10467.jpg Frame_number: 3
 Rect_id: 10467 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 10469.jpg Frame_number: 4
@@ -16,7 +16,7 @@ Rect_id: 10471 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 10474.jpg Frame_number: 7
 Rect_id: 10474 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 10476.jpg Frame_number: 8
-Rect_id: 10476 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 10476 Rect_coordinates: [0; 0; 128; 128] Rect_label: back
 Frame_name: 10478.jpg Frame_number: 9
 Rect_id: 10478 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 10479.jpg Frame_number: 10
@@ -34,19 +34,19 @@ Rect_id: 10485 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 10486.jpg Frame_number: 16
 Rect_id: 10486 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 10488.jpg Frame_number: 17
-Rect_id: 10488 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 10488 Rect_coordinates: [0; 0; 128; 128] Rect_label: back
 Frame_name: 10489.jpg Frame_number: 18
-Rect_id: 10489 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 10489 Rect_coordinates: [0; 0; 128; 128] Rect_label: back
 Frame_name: 10493.jpg Frame_number: 19
-Rect_id: 10493 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 10493 Rect_coordinates: [0; 0; 128; 128] Rect_label: back
 Frame_name: 10496.jpg Frame_number: 20
 Rect_id: 10496 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 10500.jpg Frame_number: 21
-Rect_id: 10500 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
+Rect_id: 10500 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 10501.jpg Frame_number: 22
 Rect_id: 10501 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 10503.jpg Frame_number: 23
-Rect_id: 10503 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
+Rect_id: 10503 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 10506.jpg Frame_number: 24
 Rect_id: 10506 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 10509.jpg Frame_number: 25
@@ -60,7 +60,7 @@ Rect_id: 10515 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 10516.jpg Frame_number: 29
 Rect_id: 10516 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 10517.jpg Frame_number: 30
-Rect_id: 10517 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 10517 Rect_coordinates: [0; 0; 128; 128] Rect_label: back
 Frame_name: 10518.jpg Frame_number: 31
 Rect_id: 10518 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 10522.jpg Frame_number: 32
@@ -68,7 +68,7 @@ Rect_id: 10522 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 10523.jpg Frame_number: 33
 Rect_id: 10523 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 10524.jpg Frame_number: 34
-Rect_id: 10524 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 10524 Rect_coordinates: [0; 0; 128; 128] Rect_label: back
 Frame_name: 10525.jpg Frame_number: 35
 Rect_id: 10525 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 10526.jpg Frame_number: 36
@@ -92,7 +92,7 @@ Rect_id: 10540 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 10542.jpg Frame_number: 45
 Rect_id: 10542 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 10544.jpg Frame_number: 46
-Rect_id: 10544 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 10544 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 10546.jpg Frame_number: 47
 Rect_id: 10546 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 10547.jpg Frame_number: 48
@@ -110,7 +110,7 @@ Rect_id: 10558 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 10559.jpg Frame_number: 54
 Rect_id: 10559 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 10560.jpg Frame_number: 55
-Rect_id: 10560 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 10560 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 10562.jpg Frame_number: 56
 Rect_id: 10562 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 10567.jpg Frame_number: 57
@@ -118,7 +118,7 @@ Rect_id: 10567 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 10570.jpg Frame_number: 58
 Rect_id: 10570 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 10577.jpg Frame_number: 59
-Rect_id: 10577 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 10577 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 10578.jpg Frame_number: 60
 Rect_id: 10578 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 10583.jpg Frame_number: 61
@@ -132,7 +132,7 @@ Rect_id: 10587 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 10591.jpg Frame_number: 65
 Rect_id: 10591 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 10592.jpg Frame_number: 66
-Rect_id: 10592 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 10592 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 10593.jpg Frame_number: 67
 Rect_id: 10593 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 10594.jpg Frame_number: 68
@@ -176,25 +176,25 @@ Rect_id: 10622 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 10624.jpg Frame_number: 87
 Rect_id: 10624 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 10629.jpg Frame_number: 88
-Rect_id: 10629 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
+Rect_id: 10629 Rect_coordinates: [0.1588135; 0.1588097; 128; 128] Rect_label: good
 Frame_name: 10635.jpg Frame_number: 89
 Rect_id: 10635 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 10636.jpg Frame_number: 90
 Rect_id: 10636 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 10637.jpg Frame_number: 91
-Rect_id: 10637 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 10637 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 10639.jpg Frame_number: 92
 Rect_id: 10639 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 10640.jpg Frame_number: 93
 Rect_id: 10640 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 10641.jpg Frame_number: 94
-Rect_id: 10641 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
+Rect_id: 10641 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 10645.jpg Frame_number: 95
 Rect_id: 10645 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 10646.jpg Frame_number: 96
 Rect_id: 10646 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 10649.jpg Frame_number: 97
-Rect_id: 10649 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 10649 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 10653.jpg Frame_number: 98
 Rect_id: 10653 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 10654.jpg Frame_number: 99
@@ -212,7 +212,7 @@ Rect_id: 10664 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 10665.jpg Frame_number: 105
 Rect_id: 10665 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 10666.jpg Frame_number: 106
-Rect_id: 10666 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 10666 Rect_coordinates: [0; 0; 128; 128] Rect_label: back
 Frame_name: 10673.jpg Frame_number: 107
 Rect_id: 10673 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 10675.jpg Frame_number: 108
@@ -220,7 +220,7 @@ Rect_id: 10675 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 10676.jpg Frame_number: 109
 Rect_id: 10676 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 10677.jpg Frame_number: 110
-Rect_id: 10677 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 10677 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 10680.jpg Frame_number: 111
 Rect_id: 10680 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 10681.jpg Frame_number: 112
@@ -228,11 +228,11 @@ Rect_id: 10681 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 10682.jpg Frame_number: 113
 Rect_id: 10682 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 10684.jpg Frame_number: 114
-Rect_id: 10684 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
+Rect_id: 10684 Rect_coordinates: [0; 0; 128; 128] Rect_label: back
 Frame_name: 10686.jpg Frame_number: 115
 Rect_id: 10686 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 10687.jpg Frame_number: 116
-Rect_id: 10687 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 10687 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 10689.jpg Frame_number: 117
 Rect_id: 10689 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 10690.jpg Frame_number: 118
@@ -242,7 +242,7 @@ Rect_id: 10691 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 10692.jpg Frame_number: 120
 Rect_id: 10692 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 10695.jpg Frame_number: 121
-Rect_id: 10695 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 10695 Rect_coordinates: [0; 0; 128; 128] Rect_label: back
 Frame_name: 10696.jpg Frame_number: 122
 Rect_id: 10696 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 10697.jpg Frame_number: 123
@@ -258,7 +258,7 @@ Rect_id: 10704 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 10705.jpg Frame_number: 128
 Rect_id: 10705 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 10706.jpg Frame_number: 129
-Rect_id: 10706 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
+Rect_id: 10706 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 10707.jpg Frame_number: 130
 Rect_id: 10707 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 10708.jpg Frame_number: 131
@@ -276,15 +276,15 @@ Rect_id: 10719 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 10722.jpg Frame_number: 137
 Rect_id: 10722 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 10725.jpg Frame_number: 138
-Rect_id: 10725 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
+Rect_id: 10725 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 10726.jpg Frame_number: 139
-Rect_id: 10726 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 10726 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 10730.jpg Frame_number: 140
 Rect_id: 10730 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 10731.jpg Frame_number: 141
-Rect_id: 10731 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 10731 Rect_coordinates: [0; 0; 128; 128] Rect_label: back
 Frame_name: 10732.jpg Frame_number: 142
-Rect_id: 10732 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 10732 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 10733.jpg Frame_number: 143
 Rect_id: 10733 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 10738.jpg Frame_number: 144
@@ -296,7 +296,7 @@ Rect_id: 10743 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 10745.jpg Frame_number: 147
 Rect_id: 10745 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 10746.jpg Frame_number: 148
-Rect_id: 10746 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 10746 Rect_coordinates: [0; 0; 128; 128] Rect_label: back
 Frame_name: 10752.jpg Frame_number: 149
 Rect_id: 10752 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 10753.jpg Frame_number: 150
@@ -308,11 +308,11 @@ Rect_id: 10759 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 10764.jpg Frame_number: 153
 Rect_id: 10764 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 10765.jpg Frame_number: 154
-Rect_id: 10765 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 10765 Rect_coordinates: [0; 0; 128; 128] Rect_label: back
 Frame_name: 10769.jpg Frame_number: 155
 Rect_id: 10769 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 10771.jpg Frame_number: 156
-Rect_id: 10771 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 10771 Rect_coordinates: [0; 0; 128; 128] Rect_label: back
 Frame_name: 10772.jpg Frame_number: 157
 Rect_id: 10772 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 10773.jpg Frame_number: 158
@@ -320,7 +320,7 @@ Rect_id: 10773 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 10774.jpg Frame_number: 159
 Rect_id: 10774 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 10777.jpg Frame_number: 160
-Rect_id: 10777 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
+Rect_id: 10777 Rect_coordinates: [0; 0; 128; 128] Rect_label: back
 Frame_name: 10778.jpg Frame_number: 161
 Rect_id: 10778 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 10780.jpg Frame_number: 162
@@ -338,23 +338,23 @@ Rect_id: 10790 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 10791.jpg Frame_number: 168
 Rect_id: 10791 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 10795.jpg Frame_number: 169
-Rect_id: 10795 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 10795 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 10796.jpg Frame_number: 170
 Rect_id: 10796 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 10798.jpg Frame_number: 171
 Rect_id: 10798 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 10799.jpg Frame_number: 172
-Rect_id: 10799 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 10799 Rect_coordinates: [0.3176193; 0; 128; 128] Rect_label: bad
 Frame_name: 10801.jpg Frame_number: 173
 Rect_id: 10801 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 10802.jpg Frame_number: 174
-Rect_id: 10802 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 10802 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 10807.jpg Frame_number: 175
 Rect_id: 10807 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 10809.jpg Frame_number: 176
 Rect_id: 10809 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 10811.jpg Frame_number: 177
-Rect_id: 10811 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
+Rect_id: 10811 Rect_coordinates: [0; 0.1588097; 128; 128] Rect_label: good
 Frame_name: 10812.jpg Frame_number: 178
 Rect_id: 10812 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 10815.jpg Frame_number: 179
@@ -366,7 +366,7 @@ Rect_id: 10823 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 10824.jpg Frame_number: 182
 Rect_id: 10824 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 10825.jpg Frame_number: 183
-Rect_id: 10825 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 10825 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 10828.jpg Frame_number: 184
 Rect_id: 10828 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 10830.jpg Frame_number: 185
@@ -376,7 +376,7 @@ Rect_id: 10831 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 10832.jpg Frame_number: 187
 Rect_id: 10832 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 10836.jpg Frame_number: 188
-Rect_id: 10836 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
+Rect_id: 10836 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 10839.jpg Frame_number: 189
 Rect_id: 10839 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 10844.jpg Frame_number: 190
@@ -392,15 +392,15 @@ Rect_id: 10854 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 10856.jpg Frame_number: 195
 Rect_id: 10856 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 10858.jpg Frame_number: 196
-Rect_id: 10858 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 10858 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 10863.jpg Frame_number: 197
 Rect_id: 10863 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 10864.jpg Frame_number: 198
 Rect_id: 10864 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 10865.jpg Frame_number: 199
-Rect_id: 10865 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 10865 Rect_coordinates: [0; 0; 128; 128] Rect_label: back
 Frame_name: 10867.jpg Frame_number: 200
-Rect_id: 10867 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 10867 Rect_coordinates: [0; 0; 128; 128] Rect_label: back
 Frame_name: 10870.jpg Frame_number: 201
 Rect_id: 10870 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 10872.jpg Frame_number: 202
@@ -422,13 +422,13 @@ Rect_id: 10887 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 10888.jpg Frame_number: 210
 Rect_id: 10888 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 10889.jpg Frame_number: 211
-Rect_id: 10889 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 10889 Rect_coordinates: [0; 0; 128; 128] Rect_label: back
 Frame_name: 10890.jpg Frame_number: 212
 Rect_id: 10890 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 10891.jpg Frame_number: 213
 Rect_id: 10891 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 10894.jpg Frame_number: 214
-Rect_id: 10894 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 10894 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 10895.jpg Frame_number: 215
 Rect_id: 10895 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 10898.jpg Frame_number: 216
@@ -444,7 +444,7 @@ Rect_id: 10905 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 10906.jpg Frame_number: 221
 Rect_id: 10906 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 10907.jpg Frame_number: 222
-Rect_id: 10907 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 10907 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 10911.jpg Frame_number: 223
 Rect_id: 10911 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 10914.jpg Frame_number: 224
@@ -454,17 +454,17 @@ Rect_id: 10916 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 10918.jpg Frame_number: 226
 Rect_id: 10918 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 10920.jpg Frame_number: 227
-Rect_id: 10920 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
+Rect_id: 10920 Rect_coordinates: [0.1588135; 0; 128; 128] Rect_label: good
 Frame_name: 10921.jpg Frame_number: 228
 Rect_id: 10921 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 10923.jpg Frame_number: 229
 Rect_id: 10923 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 10926.jpg Frame_number: 230
-Rect_id: 10926 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
+Rect_id: 10926 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 10927.jpg Frame_number: 231
 Rect_id: 10927 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 10929.jpg Frame_number: 232
-Rect_id: 10929 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
+Rect_id: 10929 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 10933.jpg Frame_number: 233
 Rect_id: 10933 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 10934.jpg Frame_number: 234
@@ -488,7 +488,7 @@ Rect_id: 10945 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 10948.jpg Frame_number: 243
 Rect_id: 10948 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 10954.jpg Frame_number: 244
-Rect_id: 10954 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 10954 Rect_coordinates: [0; 0; 128; 128] Rect_label: back
 Frame_name: 10956.jpg Frame_number: 245
 Rect_id: 10956 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 10959.jpg Frame_number: 246
@@ -498,19 +498,19 @@ Rect_id: 10960 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 10961.jpg Frame_number: 248
 Rect_id: 10961 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 10965.jpg Frame_number: 249
-Rect_id: 10965 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 10965 Rect_coordinates: [0; 0; 128; 128] Rect_label: back
 Frame_name: 10968.jpg Frame_number: 250
 Rect_id: 10968 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 10970.jpg Frame_number: 251
-Rect_id: 10970 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 10970 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 10973.jpg Frame_number: 252
 Rect_id: 10973 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 10974.jpg Frame_number: 253
 Rect_id: 10974 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 10978.jpg Frame_number: 254
-Rect_id: 10978 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 10978 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 10980.jpg Frame_number: 255
-Rect_id: 10980 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 10980 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 10982.jpg Frame_number: 256
 Rect_id: 10982 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 10983.jpg Frame_number: 257
@@ -520,7 +520,7 @@ Rect_id: 10984 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 10986.jpg Frame_number: 259
 Rect_id: 10986 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 10987.jpg Frame_number: 260
-Rect_id: 10987 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 10987 Rect_coordinates: [0; 0; 128; 128] Rect_label: back
 Frame_name: 10989.jpg Frame_number: 261
 Rect_id: 10989 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 10992.jpg Frame_number: 262
@@ -534,7 +534,7 @@ Rect_id: 10997 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 10998.jpg Frame_number: 266
 Rect_id: 10998 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 11001.jpg Frame_number: 267
-Rect_id: 11001 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 11001 Rect_coordinates: [0; 0; 128; 128] Rect_label: back
 Frame_name: 11004.jpg Frame_number: 268
 Rect_id: 11004 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 11005.jpg Frame_number: 269
@@ -572,7 +572,7 @@ Rect_id: 11032 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 11033.jpg Frame_number: 285
 Rect_id: 11033 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 11034.jpg Frame_number: 286
-Rect_id: 11034 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
+Rect_id: 11034 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 11035.jpg Frame_number: 287
 Rect_id: 11035 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 11036.jpg Frame_number: 288
@@ -580,7 +580,7 @@ Rect_id: 11036 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 11037.jpg Frame_number: 289
 Rect_id: 11037 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 11039.jpg Frame_number: 290
-Rect_id: 11039 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 11039 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 11040.jpg Frame_number: 291
 Rect_id: 11040 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 11041.jpg Frame_number: 292
@@ -590,21 +590,21 @@ Rect_id: 11042 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 11051.jpg Frame_number: 294
 Rect_id: 11051 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 11054.jpg Frame_number: 295
-Rect_id: 11054 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 11054 Rect_coordinates: [0; 0; 128; 128] Rect_label: back
 Frame_name: 11056.jpg Frame_number: 296
 Rect_id: 11056 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 11057.jpg Frame_number: 297
-Rect_id: 11057 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 11057 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 11059.jpg Frame_number: 298
 Rect_id: 11059 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 11063.jpg Frame_number: 299
-Rect_id: 11063 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 11063 Rect_coordinates: [0; 0; 128; 128] Rect_label: back
 Frame_name: 11066.jpg Frame_number: 300
 Rect_id: 11066 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 11067.jpg Frame_number: 301
 Rect_id: 11067 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 11070.jpg Frame_number: 302
-Rect_id: 11070 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
+Rect_id: 11070 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 11073.jpg Frame_number: 303
 Rect_id: 11073 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 11074.jpg Frame_number: 304
@@ -622,11 +622,11 @@ Rect_id: 11085 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 11086.jpg Frame_number: 310
 Rect_id: 11086 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 11087.jpg Frame_number: 311
-Rect_id: 11087 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
+Rect_id: 11087 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 11088.jpg Frame_number: 312
 Rect_id: 11088 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 11090.jpg Frame_number: 313
-Rect_id: 11090 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
+Rect_id: 11090 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 11091.jpg Frame_number: 314
 Rect_id: 11091 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 11092.jpg Frame_number: 315
@@ -634,17 +634,17 @@ Rect_id: 11092 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 11096.jpg Frame_number: 316
 Rect_id: 11096 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 11100.jpg Frame_number: 317
-Rect_id: 11100 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 11100 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 11101.jpg Frame_number: 318
 Rect_id: 11101 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 11102.jpg Frame_number: 319
 Rect_id: 11102 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 11103.jpg Frame_number: 320
-Rect_id: 11103 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 11103 Rect_coordinates: [0; 0; 128; 128] Rect_label: back
 Frame_name: 11106.jpg Frame_number: 321
 Rect_id: 11106 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 11108.jpg Frame_number: 322
-Rect_id: 11108 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
+Rect_id: 11108 Rect_coordinates: [0; 0.1588058; 128; 128] Rect_label: good
 Frame_name: 11110.jpg Frame_number: 323
 Rect_id: 11110 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 11112.jpg Frame_number: 324
@@ -652,9 +652,9 @@ Rect_id: 11112 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 11114.jpg Frame_number: 325
 Rect_id: 11114 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 11115.jpg Frame_number: 326
-Rect_id: 11115 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
+Rect_id: 11115 Rect_coordinates: [0.1588058; 0; 128; 128] Rect_label: neutral
 Frame_name: 11117.jpg Frame_number: 327
-Rect_id: 11117 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 11117 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 11118.jpg Frame_number: 328
 Rect_id: 11118 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 11120.jpg Frame_number: 329
@@ -664,23 +664,23 @@ Rect_id: 11121 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 11123.jpg Frame_number: 331
 Rect_id: 11123 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 11124.jpg Frame_number: 332
-Rect_id: 11124 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
+Rect_id: 11124 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 11127.jpg Frame_number: 333
 Rect_id: 11127 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 11130.jpg Frame_number: 334
-Rect_id: 11130 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
+Rect_id: 11130 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 11131.jpg Frame_number: 335
-Rect_id: 11131 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 11131 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 11133.jpg Frame_number: 336
 Rect_id: 11133 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 11135.jpg Frame_number: 337
 Rect_id: 11135 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 11136.jpg Frame_number: 338
-Rect_id: 11136 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 11136 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 11142.jpg Frame_number: 339
 Rect_id: 11142 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 11143.jpg Frame_number: 340
-Rect_id: 11143 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 11143 Rect_coordinates: [0; 0; 128; 128] Rect_label: back
 Frame_name: 11144.jpg Frame_number: 341
 Rect_id: 11144 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 11150.jpg Frame_number: 342
@@ -704,7 +704,7 @@ Rect_id: 11166 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 11167.jpg Frame_number: 351
 Rect_id: 11167 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 11168.jpg Frame_number: 352
-Rect_id: 11168 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
+Rect_id: 11168 Rect_coordinates: [0.3176117; 0; 128; 128] Rect_label: neutral
 Frame_name: 11169.jpg Frame_number: 353
 Rect_id: 11169 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 11172.jpg Frame_number: 354
@@ -730,15 +730,15 @@ Rect_id: 11191 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 11193.jpg Frame_number: 364
 Rect_id: 11193 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 11194.jpg Frame_number: 365
-Rect_id: 11194 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
+Rect_id: 11194 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 11195.jpg Frame_number: 366
 Rect_id: 11195 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 11196.jpg Frame_number: 367
-Rect_id: 11196 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
+Rect_id: 11196 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 11197.jpg Frame_number: 368
 Rect_id: 11197 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 11198.jpg Frame_number: 369
-Rect_id: 11198 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 11198 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 11202.jpg Frame_number: 370
 Rect_id: 11202 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 11203.jpg Frame_number: 371
@@ -748,7 +748,7 @@ Rect_id: 11205 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 11208.jpg Frame_number: 373
 Rect_id: 11208 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 11211.jpg Frame_number: 374
-Rect_id: 11211 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
+Rect_id: 11211 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 11213.jpg Frame_number: 375
 Rect_id: 11213 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 11214.jpg Frame_number: 376
@@ -774,9 +774,9 @@ Rect_id: 11225 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 11226.jpg Frame_number: 386
 Rect_id: 11226 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 11231.jpg Frame_number: 387
-Rect_id: 11231 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 11231 Rect_coordinates: [0; 0; 128; 128] Rect_label: back
 Frame_name: 11233.jpg Frame_number: 388
-Rect_id: 11233 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
+Rect_id: 11233 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 11237.jpg Frame_number: 389
 Rect_id: 11237 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 11239.jpg Frame_number: 390
@@ -792,7 +792,7 @@ Rect_id: 11250 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 11252.jpg Frame_number: 395
 Rect_id: 11252 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 11253.jpg Frame_number: 396
-Rect_id: 11253 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
+Rect_id: 11253 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 11254.jpg Frame_number: 397
 Rect_id: 11254 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 11255.jpg Frame_number: 398
@@ -816,7 +816,7 @@ Rect_id: 11270 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 11273.jpg Frame_number: 407
 Rect_id: 11273 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 11275.jpg Frame_number: 408
-Rect_id: 11275 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
+Rect_id: 11275 Rect_coordinates: [0.1588135; 0; 128; 128] Rect_label: neutral
 Frame_name: 11276.jpg Frame_number: 409
 Rect_id: 11276 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 11277.jpg Frame_number: 410
@@ -826,11 +826,11 @@ Rect_id: 11281 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 11287.jpg Frame_number: 412
 Rect_id: 11287 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 11288.jpg Frame_number: 413
-Rect_id: 11288 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
+Rect_id: 11288 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 11290.jpg Frame_number: 414
 Rect_id: 11290 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 11291.jpg Frame_number: 415
-Rect_id: 11291 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 11291 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 11294.jpg Frame_number: 416
 Rect_id: 11294 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 11296.jpg Frame_number: 417
@@ -846,7 +846,7 @@ Rect_id: 11303 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 11304.jpg Frame_number: 422
 Rect_id: 11304 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 11306.jpg Frame_number: 423
-Rect_id: 11306 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 11306 Rect_coordinates: [0; 0.1588087; 128; 128] Rect_label: bad
 Frame_name: 11307.jpg Frame_number: 424
 Rect_id: 11307 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 11308.jpg Frame_number: 425
@@ -868,17 +868,17 @@ Rect_id: 11317 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 11318.jpg Frame_number: 433
 Rect_id: 11318 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 11319.jpg Frame_number: 434
-Rect_id: 11319 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 11319 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 11322.jpg Frame_number: 435
-Rect_id: 11322 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 11322 Rect_coordinates: [0; 0.1588087; 128; 128] Rect_label: bad
 Frame_name: 11325.jpg Frame_number: 436
 Rect_id: 11325 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 11326.jpg Frame_number: 437
 Rect_id: 11326 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 11329.jpg Frame_number: 438
-Rect_id: 11329 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 11329 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 11330.jpg Frame_number: 439
-Rect_id: 11330 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 11330 Rect_coordinates: [0.1588058; 0; 128; 128] Rect_label: bad
 Frame_name: 11331.jpg Frame_number: 440
 Rect_id: 11331 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 11332.jpg Frame_number: 441
@@ -902,13 +902,13 @@ Rect_id: 11348 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 11349.jpg Frame_number: 450
 Rect_id: 11349 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 11350.jpg Frame_number: 451
-Rect_id: 11350 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
+Rect_id: 11350 Rect_coordinates: [0; 0; 128; 128] Rect_label: back
 Frame_name: 11351.jpg Frame_number: 452
 Rect_id: 11351 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 11352.jpg Frame_number: 453
 Rect_id: 11352 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 11355.jpg Frame_number: 454
-Rect_id: 11355 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 11355 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 11360.jpg Frame_number: 455
 Rect_id: 11360 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 11361.jpg Frame_number: 456
@@ -928,37 +928,37 @@ Rect_id: 11375 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 11376.jpg Frame_number: 463
 Rect_id: 11376 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 11377.jpg Frame_number: 464
-Rect_id: 11377 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 11377 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 11380.jpg Frame_number: 465
-Rect_id: 11380 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 11380 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 11381.jpg Frame_number: 466
 Rect_id: 11381 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 11382.jpg Frame_number: 467
 Rect_id: 11382 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 11385.jpg Frame_number: 468
-Rect_id: 11385 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 11385 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 11387.jpg Frame_number: 469
 Rect_id: 11387 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 11389.jpg Frame_number: 470
-Rect_id: 11389 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 11389 Rect_coordinates: [0; 0.1588058; 128; 128] Rect_label: bad
 Frame_name: 11392.jpg Frame_number: 471
 Rect_id: 11392 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 11394.jpg Frame_number: 472
-Rect_id: 11394 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 11394 Rect_coordinates: [0; 0.3176193; 128; 128] Rect_label: bad
 Frame_name: 11396.jpg Frame_number: 473
 Rect_id: 11396 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 11403.jpg Frame_number: 474
-Rect_id: 11403 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 11403 Rect_coordinates: [0; 0.1588097; 128; 128] Rect_label: bad
 Frame_name: 11405.jpg Frame_number: 475
 Rect_id: 11405 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 11406.jpg Frame_number: 476
-Rect_id: 11406 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
+Rect_id: 11406 Rect_coordinates: [0; 0.1588097; 128; 128] Rect_label: neutral
 Frame_name: 11410.jpg Frame_number: 477
 Rect_id: 11410 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 11412.jpg Frame_number: 478
 Rect_id: 11412 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 11415.jpg Frame_number: 479
-Rect_id: 11415 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 11415 Rect_coordinates: [0.3176117; 0; 128; 128] Rect_label: bad
 Frame_name: 11417.jpg Frame_number: 480
 Rect_id: 11417 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 11419.jpg Frame_number: 481
@@ -968,13 +968,13 @@ Rect_id: 11421 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 11422.jpg Frame_number: 483
 Rect_id: 11422 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 11428.jpg Frame_number: 484
-Rect_id: 11428 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
+Rect_id: 11428 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 11430.jpg Frame_number: 485
 Rect_id: 11430 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 11436.jpg Frame_number: 486
 Rect_id: 11436 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 11439.jpg Frame_number: 487
-Rect_id: 11439 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
+Rect_id: 11439 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 11440.jpg Frame_number: 488
 Rect_id: 11440 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 11441.jpg Frame_number: 489
@@ -982,7 +982,7 @@ Rect_id: 11441 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 11444.jpg Frame_number: 490
 Rect_id: 11444 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 11446.jpg Frame_number: 491
-Rect_id: 11446 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 11446 Rect_coordinates: [0; 0; 128; 128] Rect_label: back
 Frame_name: 11447.jpg Frame_number: 492
 Rect_id: 11447 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 11449.jpg Frame_number: 493
@@ -996,7 +996,7 @@ Rect_id: 11454 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 11455.jpg Frame_number: 497
 Rect_id: 11455 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 11456.jpg Frame_number: 498
-Rect_id: 11456 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
+Rect_id: 11456 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 11457.jpg Frame_number: 499
 Rect_id: 11457 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 11458.jpg Frame_number: 500
@@ -1004,7 +1004,7 @@ Rect_id: 11458 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 11461.jpg Frame_number: 501
 Rect_id: 11461 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 11462.jpg Frame_number: 502
-Rect_id: 11462 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
+Rect_id: 11462 Rect_coordinates: [0; 0.1588097; 128; 128] Rect_label: neutral
 Frame_name: 11463.jpg Frame_number: 503
 Rect_id: 11463 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 11465.jpg Frame_number: 504
@@ -1012,11 +1012,11 @@ Rect_id: 11465 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 11467.jpg Frame_number: 505
 Rect_id: 11467 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 11470.jpg Frame_number: 506
-Rect_id: 11470 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
+Rect_id: 11470 Rect_coordinates: [0; 0.1588078; 128; 128] Rect_label: neutral
 Frame_name: 11472.jpg Frame_number: 507
 Rect_id: 11472 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 11473.jpg Frame_number: 508
-Rect_id: 11473 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
+Rect_id: 11473 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 11475.jpg Frame_number: 509
 Rect_id: 11475 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 11476.jpg Frame_number: 510
@@ -1044,11 +1044,11 @@ Rect_id: 11495 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 11498.jpg Frame_number: 521
 Rect_id: 11498 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 11499.jpg Frame_number: 522
-Rect_id: 11499 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
+Rect_id: 11499 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 11500.jpg Frame_number: 523
 Rect_id: 11500 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 11503.jpg Frame_number: 524
-Rect_id: 11503 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 11503 Rect_coordinates: [0; 0; 128; 128] Rect_label: back
 Frame_name: 11511.jpg Frame_number: 525
 Rect_id: 11511 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 11514.jpg Frame_number: 526
@@ -1058,11 +1058,11 @@ Rect_id: 11515 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 11518.jpg Frame_number: 528
 Rect_id: 11518 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 11520.jpg Frame_number: 529
-Rect_id: 11520 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 11520 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 11522.jpg Frame_number: 530
 Rect_id: 11522 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 11528.jpg Frame_number: 531
-Rect_id: 11528 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 11528 Rect_coordinates: [0.7940445; 0; 128; 128] Rect_label: bad
 Frame_name: 11529.jpg Frame_number: 532
 Rect_id: 11529 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 11530.jpg Frame_number: 533
@@ -1072,15 +1072,15 @@ Rect_id: 11531 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 11534.jpg Frame_number: 535
 Rect_id: 11534 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 11535.jpg Frame_number: 536
-Rect_id: 11535 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 11535 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 11536.jpg Frame_number: 537
 Rect_id: 11536 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 11542.jpg Frame_number: 538
-Rect_id: 11542 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
+Rect_id: 11542 Rect_coordinates: [0.1588135; 0; 128; 128] Rect_label: neutral
 Frame_name: 11543.jpg Frame_number: 539
 Rect_id: 11543 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 11544.jpg Frame_number: 540
-Rect_id: 11544 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
+Rect_id: 11544 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 11545.jpg Frame_number: 541
 Rect_id: 11545 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 11547.jpg Frame_number: 542
@@ -1092,11 +1092,11 @@ Rect_id: 11553 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 11554.jpg Frame_number: 545
 Rect_id: 11554 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 11557.jpg Frame_number: 546
-Rect_id: 11557 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 11557 Rect_coordinates: [0; 0.1588058; 128; 128] Rect_label: bad
 Frame_name: 11558.jpg Frame_number: 547
 Rect_id: 11558 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 11559.jpg Frame_number: 548
-Rect_id: 11559 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 11559 Rect_coordinates: [0; 0; 128; 128] Rect_label: back
 Frame_name: 11562.jpg Frame_number: 549
 Rect_id: 11562 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 11564.jpg Frame_number: 550
@@ -1112,7 +1112,7 @@ Rect_id: 11570 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 11571.jpg Frame_number: 555
 Rect_id: 11571 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 11573.jpg Frame_number: 556
-Rect_id: 11573 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
+Rect_id: 11573 Rect_coordinates: [0; 0; 128; 128] Rect_label: back
 Frame_name: 11575.jpg Frame_number: 557
 Rect_id: 11575 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 11577.jpg Frame_number: 558
@@ -1136,13 +1136,13 @@ Rect_id: 11592 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 11594.jpg Frame_number: 567
 Rect_id: 11594 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 11595.jpg Frame_number: 568
-Rect_id: 11595 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 11595 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 11596.jpg Frame_number: 569
 Rect_id: 11596 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 11599.jpg Frame_number: 570
 Rect_id: 11599 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 11600.jpg Frame_number: 571
-Rect_id: 11600 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
+Rect_id: 11600 Rect_coordinates: [0; 0; 128; 128] Rect_label: back
 Frame_name: 11603.jpg Frame_number: 572
 Rect_id: 11603 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 11604.jpg Frame_number: 573
@@ -1156,7 +1156,7 @@ Rect_id: 11611 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 11612.jpg Frame_number: 577
 Rect_id: 11612 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 11614.jpg Frame_number: 578
-Rect_id: 11614 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
+Rect_id: 11614 Rect_coordinates: [0; 0.1588097; 128; 128] Rect_label: good
 Frame_name: 11616.jpg Frame_number: 579
 Rect_id: 11616 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 11622.jpg Frame_number: 580
@@ -1172,7 +1172,7 @@ Rect_id: 11634 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 11635.jpg Frame_number: 585
 Rect_id: 11635 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 11636.jpg Frame_number: 586
-Rect_id: 11636 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 11636 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 11637.jpg Frame_number: 587
 Rect_id: 11637 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 11638.jpg Frame_number: 588
@@ -1184,7 +1184,7 @@ Rect_id: 11641 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 11642.jpg Frame_number: 591
 Rect_id: 11642 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 11646.jpg Frame_number: 592
-Rect_id: 11646 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
+Rect_id: 11646 Rect_coordinates: [0; 0.1588097; 128; 128] Rect_label: good
 Frame_name: 11648.jpg Frame_number: 593
 Rect_id: 11648 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 11651.jpg Frame_number: 594
@@ -1194,7 +1194,7 @@ Rect_id: 11655 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 11656.jpg Frame_number: 596
 Rect_id: 11656 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 11657.jpg Frame_number: 597
-Rect_id: 11657 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 11657 Rect_coordinates: [0; 0.3176174; 128; 128] Rect_label: bad
 Frame_name: 11658.jpg Frame_number: 598
 Rect_id: 11658 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 11659.jpg Frame_number: 599
@@ -1202,9 +1202,9 @@ Rect_id: 11659 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 11660.jpg Frame_number: 600
 Rect_id: 11660 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 11661.jpg Frame_number: 601
-Rect_id: 11661 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 11661 Rect_coordinates: [0; 0; 128; 128] Rect_label: back
 Frame_name: 11662.jpg Frame_number: 602
-Rect_id: 11662 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 11662 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 11663.jpg Frame_number: 603
 Rect_id: 11663 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 11664.jpg Frame_number: 604
@@ -1212,7 +1212,7 @@ Rect_id: 11664 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 11665.jpg Frame_number: 605
 Rect_id: 11665 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 11666.jpg Frame_number: 606
-Rect_id: 11666 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
+Rect_id: 11666 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 11671.jpg Frame_number: 607
 Rect_id: 11671 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 11673.jpg Frame_number: 608
@@ -1220,13 +1220,13 @@ Rect_id: 11673 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 11675.jpg Frame_number: 609
 Rect_id: 11675 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 11677.jpg Frame_number: 610
-Rect_id: 11677 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 11677 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 11685.jpg Frame_number: 611
 Rect_id: 11685 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 11686.jpg Frame_number: 612
 Rect_id: 11686 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 11687.jpg Frame_number: 613
-Rect_id: 11687 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 11687 Rect_coordinates: [0; 0; 128; 128] Rect_label: back
 Frame_name: 11689.jpg Frame_number: 614
 Rect_id: 11689 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 11690.jpg Frame_number: 615
@@ -1248,7 +1248,7 @@ Rect_id: 11698 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 11703.jpg Frame_number: 623
 Rect_id: 11703 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 11704.jpg Frame_number: 624
-Rect_id: 11704 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 11704 Rect_coordinates: [0; 0; 128; 128] Rect_label: back
 Frame_name: 11705.jpg Frame_number: 625
 Rect_id: 11705 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 11706.jpg Frame_number: 626
@@ -1264,7 +1264,7 @@ Rect_id: 11719 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 11720.jpg Frame_number: 631
 Rect_id: 11720 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 11725.jpg Frame_number: 632
-Rect_id: 11725 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
+Rect_id: 11725 Rect_coordinates: [0; 0.1588097; 128; 128] Rect_label: neutral
 Frame_name: 11731.jpg Frame_number: 633
 Rect_id: 11731 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 11732.jpg Frame_number: 634
@@ -1280,11 +1280,11 @@ Rect_id: 11738 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 11743.jpg Frame_number: 639
 Rect_id: 11743 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 11746.jpg Frame_number: 640
-Rect_id: 11746 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 11746 Rect_coordinates: [0; 0.3176193; 128; 128] Rect_label: bad
 Frame_name: 11747.jpg Frame_number: 641
 Rect_id: 11747 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 11748.jpg Frame_number: 642
-Rect_id: 11748 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 11748 Rect_coordinates: [0; 0.1588078; 128; 128] Rect_label: bad
 Frame_name: 11750.jpg Frame_number: 643
 Rect_id: 11750 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 11751.jpg Frame_number: 644
@@ -1292,9 +1292,9 @@ Rect_id: 11751 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 11753.jpg Frame_number: 645
 Rect_id: 11753 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 11754.jpg Frame_number: 646
-Rect_id: 11754 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 11754 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 11755.jpg Frame_number: 647
-Rect_id: 11755 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 11755 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 11760.jpg Frame_number: 648
 Rect_id: 11760 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 11762.jpg Frame_number: 649
@@ -1308,25 +1308,25 @@ Rect_id: 11768 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 11770.jpg Frame_number: 653
 Rect_id: 11770 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 11771.jpg Frame_number: 654
-Rect_id: 11771 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
+Rect_id: 11771 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 11774.jpg Frame_number: 655
 Rect_id: 11774 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 11776.jpg Frame_number: 656
-Rect_id: 11776 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
+Rect_id: 11776 Rect_coordinates: [0; 0.1588097; 128; 128] Rect_label: good
 Frame_name: 11777.jpg Frame_number: 657
 Rect_id: 11777 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 11778.jpg Frame_number: 658
-Rect_id: 11778 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 11778 Rect_coordinates: [0.3176193; 0; 128; 128] Rect_label: neutral
 Frame_name: 11779.jpg Frame_number: 659
 Rect_id: 11779 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 11781.jpg Frame_number: 660
-Rect_id: 11781 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 11781 Rect_coordinates: [0; 0; 128; 128] Rect_label: back
 Frame_name: 11782.jpg Frame_number: 661
 Rect_id: 11782 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 11785.jpg Frame_number: 662
 Rect_id: 11785 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 11788.jpg Frame_number: 663
-Rect_id: 11788 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
+Rect_id: 11788 Rect_coordinates: [0; 0.6352348; 128; 128] Rect_label: neutral
 Frame_name: 11791.jpg Frame_number: 664
 Rect_id: 11791 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 11792.jpg Frame_number: 665
@@ -1342,11 +1342,11 @@ Rect_id: 11799 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 11801.jpg Frame_number: 670
 Rect_id: 11801 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 11802.jpg Frame_number: 671
-Rect_id: 11802 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
+Rect_id: 11802 Rect_coordinates: [0; 0.1588087; 128; 128] Rect_label: neutral
 Frame_name: 11806.jpg Frame_number: 672
 Rect_id: 11806 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 11808.jpg Frame_number: 673
-Rect_id: 11808 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
+Rect_id: 11808 Rect_coordinates: [0.1588058; 0; 128; 128] Rect_label: good
 Frame_name: 11809.jpg Frame_number: 674
 Rect_id: 11809 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 11812.jpg Frame_number: 675
@@ -1360,7 +1360,7 @@ Rect_id: 11821 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 11822.jpg Frame_number: 679
 Rect_id: 11822 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 11823.jpg Frame_number: 680
-Rect_id: 11823 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
+Rect_id: 11823 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 11825.jpg Frame_number: 681
 Rect_id: 11825 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 11827.jpg Frame_number: 682
@@ -1374,15 +1374,15 @@ Rect_id: 11834 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 11835.jpg Frame_number: 686
 Rect_id: 11835 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 11837.jpg Frame_number: 687
-Rect_id: 11837 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 11837 Rect_coordinates: [0; 0.1588097; 128; 128] Rect_label: bad
 Frame_name: 11839.jpg Frame_number: 688
-Rect_id: 11839 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 11839 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 11840.jpg Frame_number: 689
-Rect_id: 11840 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
+Rect_id: 11840 Rect_coordinates: [0; 0.3176174; 128; 128] Rect_label: good
 Frame_name: 11843.jpg Frame_number: 690
-Rect_id: 11843 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 11843 Rect_coordinates: [0; 0.3176193; 128; 128] Rect_label: bad
 Frame_name: 11844.jpg Frame_number: 691
-Rect_id: 11844 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
+Rect_id: 11844 Rect_coordinates: [0; 0; 132.6054; 131.6526] Rect_label: neutral
 Frame_name: 11849.jpg Frame_number: 692
 Rect_id: 11849 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 11850.jpg Frame_number: 693
@@ -1402,7 +1402,7 @@ Rect_id: 11859 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 11860.jpg Frame_number: 700
 Rect_id: 11860 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 11864.jpg Frame_number: 701
-Rect_id: 11864 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
+Rect_id: 11864 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 11866.jpg Frame_number: 702
 Rect_id: 11866 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 11868.jpg Frame_number: 703
@@ -1428,7 +1428,7 @@ Rect_id: 11893 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 11894.jpg Frame_number: 713
 Rect_id: 11894 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 11897.jpg Frame_number: 714
-Rect_id: 11897 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
+Rect_id: 11897 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 11899.jpg Frame_number: 715
 Rect_id: 11899 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 11901.jpg Frame_number: 716
@@ -1464,7 +1464,7 @@ Rect_id: 11927 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 11928.jpg Frame_number: 731
 Rect_id: 11928 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 11930.jpg Frame_number: 732
-Rect_id: 11930 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
+Rect_id: 11930 Rect_coordinates: [0; 0.3176174; 128; 128] Rect_label: neutral
 Frame_name: 11931.jpg Frame_number: 733
 Rect_id: 11931 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 11933.jpg Frame_number: 734
@@ -1480,11 +1480,11 @@ Rect_id: 11941 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 11942.jpg Frame_number: 739
 Rect_id: 11942 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 11944.jpg Frame_number: 740
-Rect_id: 11944 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 11944 Rect_coordinates: [0; 0.1588097; 128; 128] Rect_label: back
 Frame_name: 11946.jpg Frame_number: 741
 Rect_id: 11946 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 11947.jpg Frame_number: 742
-Rect_id: 11947 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
+Rect_id: 11947 Rect_coordinates: [0; 0.1588097; 128; 128] Rect_label: good
 Frame_name: 11950.jpg Frame_number: 743
 Rect_id: 11950 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 11951.jpg Frame_number: 744
@@ -1496,11 +1496,11 @@ Rect_id: 11953 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 11954.jpg Frame_number: 747
 Rect_id: 11954 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 11956.jpg Frame_number: 748
-Rect_id: 11956 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 11956 Rect_coordinates: [0; 0; 128; 128] Rect_label: back
 Frame_name: 11957.jpg Frame_number: 749
 Rect_id: 11957 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 11958.jpg Frame_number: 750
-Rect_id: 11958 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
+Rect_id: 11958 Rect_coordinates: [0; 0; 128; 128] Rect_label: back
 Frame_name: 11960.jpg Frame_number: 751
 Rect_id: 11960 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 11961.jpg Frame_number: 752
@@ -1522,13 +1522,13 @@ Rect_id: 11972 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 11973.jpg Frame_number: 760
 Rect_id: 11973 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 11974.jpg Frame_number: 761
-Rect_id: 11974 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 11974 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 11975.jpg Frame_number: 762
 Rect_id: 11975 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 11981.jpg Frame_number: 763
 Rect_id: 11981 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 11982.jpg Frame_number: 764
-Rect_id: 11982 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 11982 Rect_coordinates: [0; 0; 128; 128] Rect_label: back
 Frame_name: 11983.jpg Frame_number: 765
 Rect_id: 11983 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 11986.jpg Frame_number: 766
@@ -1540,9 +1540,9 @@ Rect_id: 11989 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 11990.jpg Frame_number: 769
 Rect_id: 11990 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 11991.jpg Frame_number: 770
-Rect_id: 11991 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 11991 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 11992.jpg Frame_number: 771
-Rect_id: 11992 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
+Rect_id: 11992 Rect_coordinates: [0; 0.1588097; 128; 128] Rect_label: good
 Frame_name: 11993.jpg Frame_number: 772
 Rect_id: 11993 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 11995.jpg Frame_number: 773
@@ -1552,15 +1552,15 @@ Rect_id: 11996 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 11998.jpg Frame_number: 775
 Rect_id: 11998 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 12000.jpg Frame_number: 776
-Rect_id: 12000 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
+Rect_id: 12000 Rect_coordinates: [0; 0.1588078; 128; 128] Rect_label: good
 Frame_name: 12001.jpg Frame_number: 777
 Rect_id: 12001 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 12002.jpg Frame_number: 778
-Rect_id: 12002 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 12002 Rect_coordinates: [0; 0; 128; 128] Rect_label: back
 Frame_name: 12003.jpg Frame_number: 779
 Rect_id: 12003 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 12006.jpg Frame_number: 780
-Rect_id: 12006 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 12006 Rect_coordinates: [0; 0; 128; 128] Rect_label: back
 Frame_name: 12011.jpg Frame_number: 781
 Rect_id: 12011 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 12012.jpg Frame_number: 782
@@ -1572,7 +1572,7 @@ Rect_id: 12015 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 12016.jpg Frame_number: 785
 Rect_id: 12016 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 12019.jpg Frame_number: 786
-Rect_id: 12019 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 12019 Rect_coordinates: [0; 0; 128; 128] Rect_label: back
 Frame_name: 12020.jpg Frame_number: 787
 Rect_id: 12020 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 12022.jpg Frame_number: 788
@@ -1582,9 +1582,9 @@ Rect_id: 12023 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 12024.jpg Frame_number: 790
 Rect_id: 12024 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 12025.jpg Frame_number: 791
-Rect_id: 12025 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 12025 Rect_coordinates: [0; 0.1588078; 128; 128] Rect_label: bad
 Frame_name: 12026.jpg Frame_number: 792
-Rect_id: 12026 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
+Rect_id: 12026 Rect_coordinates: [0.1588058; 0; 128; 128] Rect_label: good
 Frame_name: 12027.jpg Frame_number: 793
 Rect_id: 12027 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 12028.jpg Frame_number: 794
@@ -1596,7 +1596,7 @@ Rect_id: 12033 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 12036.jpg Frame_number: 797
 Rect_id: 12036 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 12037.jpg Frame_number: 798
-Rect_id: 12037 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 12037 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 12038.jpg Frame_number: 799
 Rect_id: 12038 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 12039.jpg Frame_number: 800
@@ -1610,7 +1610,7 @@ Rect_id: 12044 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 12047.jpg Frame_number: 804
 Rect_id: 12047 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 12048.jpg Frame_number: 805
-Rect_id: 12048 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 12048 Rect_coordinates: [0; 0.3176155; 128; 128] Rect_label: bad
 Frame_name: 12049.jpg Frame_number: 806
 Rect_id: 12049 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 12050.jpg Frame_number: 807
@@ -1624,7 +1624,7 @@ Rect_id: 12059 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 12063.jpg Frame_number: 811
 Rect_id: 12063 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 12066.jpg Frame_number: 812
-Rect_id: 12066 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
+Rect_id: 12066 Rect_coordinates: [0; 0; 128; 128] Rect_label: back
 Frame_name: 12069.jpg Frame_number: 813
 Rect_id: 12069 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 12070.jpg Frame_number: 814
@@ -1642,7 +1642,7 @@ Rect_id: 12083 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 12084.jpg Frame_number: 820
 Rect_id: 12084 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 12087.jpg Frame_number: 821
-Rect_id: 12087 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
+Rect_id: 12087 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 12088.jpg Frame_number: 822
 Rect_id: 12088 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 12089.jpg Frame_number: 823
@@ -1654,7 +1654,7 @@ Rect_id: 12091 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 12092.jpg Frame_number: 826
 Rect_id: 12092 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 12094.jpg Frame_number: 827
-Rect_id: 12094 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 12094 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 12100.jpg Frame_number: 828
 Rect_id: 12100 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 12101.jpg Frame_number: 829
@@ -1664,17 +1664,17 @@ Rect_id: 12103 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 12106.jpg Frame_number: 831
 Rect_id: 12106 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 12109.jpg Frame_number: 832
-Rect_id: 12109 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
+Rect_id: 12109 Rect_coordinates: [0.9528503; 0; 128; 128] Rect_label: neutral
 Frame_name: 12110.jpg Frame_number: 833
-Rect_id: 12110 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 12110 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 12112.jpg Frame_number: 834
-Rect_id: 12112 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
+Rect_id: 12112 Rect_coordinates: [1.588089; 0; 128; 128] Rect_label: good
 Frame_name: 12114.jpg Frame_number: 835
 Rect_id: 12114 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 12117.jpg Frame_number: 836
-Rect_id: 12117 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
+Rect_id: 12117 Rect_coordinates: [0; 0.1588097; 128; 128] Rect_label: neutral
 Frame_name: 12119.jpg Frame_number: 837
-Rect_id: 12119 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 12119 Rect_coordinates: [0; 0.1588097; 128; 128] Rect_label: bad
 Frame_name: 12120.jpg Frame_number: 838
 Rect_id: 12120 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 12122.jpg Frame_number: 839
@@ -1688,15 +1688,15 @@ Rect_id: 12129 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 12132.jpg Frame_number: 843
 Rect_id: 12132 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 12133.jpg Frame_number: 844
-Rect_id: 12133 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 12133 Rect_coordinates: [0.4764252; 0; 128; 128] Rect_label: bad
 Frame_name: 12136.jpg Frame_number: 845
-Rect_id: 12136 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 12136 Rect_coordinates: [0.4764252; 0; 128; 128] Rect_label: neutral
 Frame_name: 12137.jpg Frame_number: 846
-Rect_id: 12137 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 12137 Rect_coordinates: [0; 0; 128; 128] Rect_label: back
 Frame_name: 12138.jpg Frame_number: 847
 Rect_id: 12138 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 12139.jpg Frame_number: 848
-Rect_id: 12139 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 12139 Rect_coordinates: [0; 0.1588097; 128; 128] Rect_label: bad
 Frame_name: 12141.jpg Frame_number: 849
 Rect_id: 12141 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 12142.jpg Frame_number: 850
@@ -1704,17 +1704,17 @@ Rect_id: 12142 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 12144.jpg Frame_number: 851
 Rect_id: 12144 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 12145.jpg Frame_number: 852
-Rect_id: 12145 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
+Rect_id: 12145 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 12147.jpg Frame_number: 853
 Rect_id: 12147 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 12149.jpg Frame_number: 854
 Rect_id: 12149 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 12153.jpg Frame_number: 855
-Rect_id: 12153 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
+Rect_id: 12153 Rect_coordinates: [0.7940445; 0; 128; 128] Rect_label: good
 Frame_name: 12156.jpg Frame_number: 856
 Rect_id: 12156 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 12157.jpg Frame_number: 857
-Rect_id: 12157 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 12157 Rect_coordinates: [0.1588135; 0; 128; 128] Rect_label: bad
 Frame_name: 12158.jpg Frame_number: 858
 Rect_id: 12158 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 12159.jpg Frame_number: 859
@@ -1726,7 +1726,7 @@ Rect_id: 12168 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 12169.jpg Frame_number: 862
 Rect_id: 12169 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 12170.jpg Frame_number: 863
-Rect_id: 12170 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
+Rect_id: 12170 Rect_coordinates: [0.1588135; 0.1588078; 128; 128] Rect_label: good
 Frame_name: 12172.jpg Frame_number: 864
 Rect_id: 12172 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 12173.jpg Frame_number: 865
@@ -1734,7 +1734,7 @@ Rect_id: 12173 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 12174.jpg Frame_number: 866
 Rect_id: 12174 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 12175.jpg Frame_number: 867
-Rect_id: 12175 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
+Rect_id: 12175 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 12179.jpg Frame_number: 868
 Rect_id: 12179 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 12180.jpg Frame_number: 869
@@ -1742,11 +1742,11 @@ Rect_id: 12180 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 12183.jpg Frame_number: 870
 Rect_id: 12183 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 12184.jpg Frame_number: 871
-Rect_id: 12184 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
+Rect_id: 12184 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 12186.jpg Frame_number: 872
 Rect_id: 12186 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 12187.jpg Frame_number: 873
-Rect_id: 12187 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 12187 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 12189.jpg Frame_number: 874
 Rect_id: 12189 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 12194.jpg Frame_number: 875
@@ -1758,45 +1758,45 @@ Rect_id: 12198 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 12199.jpg Frame_number: 878
 Rect_id: 12199 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 12200.jpg Frame_number: 879
-Rect_id: 12200 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 12200 Rect_coordinates: [0; 0.1588078; 128; 128] Rect_label: bad
 Frame_name: 12202.jpg Frame_number: 880
 Rect_id: 12202 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 12203.jpg Frame_number: 881
 Rect_id: 12203 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 12204.jpg Frame_number: 882
-Rect_id: 12204 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 12204 Rect_coordinates: [0; 0; 128; 128] Rect_label: back
 Frame_name: 12205.jpg Frame_number: 883
-Rect_id: 12205 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 12205 Rect_coordinates: [0; 0.1588078; 128; 128] Rect_label: bad
 Frame_name: 12208.jpg Frame_number: 884
-Rect_id: 12208 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 12208 Rect_coordinates: [0; 0; 128; 128] Rect_label: back
 Frame_name: 12209.jpg Frame_number: 885
-Rect_id: 12209 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
+Rect_id: 12209 Rect_coordinates: [0; 0.4764271; 128; 128] Rect_label: good
 Frame_name: 12210.jpg Frame_number: 886
-Rect_id: 12210 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 12210 Rect_coordinates: [0; 0; 128; 128] Rect_label: back
 Frame_name: 12211.jpg Frame_number: 887
 Rect_id: 12211 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 12212.jpg Frame_number: 888
 Rect_id: 12212 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 12214.jpg Frame_number: 889
-Rect_id: 12214 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
+Rect_id: 12214 Rect_coordinates: [0; 0.3176174; 128; 128] Rect_label: neutral
 Frame_name: 12216.jpg Frame_number: 890
 Rect_id: 12216 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 12220.jpg Frame_number: 891
-Rect_id: 12220 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 12220 Rect_coordinates: [0; 0.3176174; 128; 128] Rect_label: bad
 Frame_name: 12221.jpg Frame_number: 892
 Rect_id: 12221 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 12227.jpg Frame_number: 893
-Rect_id: 12227 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
+Rect_id: 12227 Rect_coordinates: [0; 0.1588078; 128; 128] Rect_label: neutral
 Frame_name: 12228.jpg Frame_number: 894
-Rect_id: 12228 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 12228 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 12229.jpg Frame_number: 895
 Rect_id: 12229 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 12231.jpg Frame_number: 896
 Rect_id: 12231 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 12232.jpg Frame_number: 897
-Rect_id: 12232 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
+Rect_id: 12232 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 12233.jpg Frame_number: 898
-Rect_id: 12233 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
+Rect_id: 12233 Rect_coordinates: [0; 0.1588097; 128; 128] Rect_label: neutral
 Frame_name: 12234.jpg Frame_number: 899
 Rect_id: 12234 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 12235.jpg Frame_number: 900
@@ -1808,23 +1808,23 @@ Rect_id: 12239 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 12241.jpg Frame_number: 903
 Rect_id: 12241 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 12244.jpg Frame_number: 904
-Rect_id: 12244 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 12244 Rect_coordinates: [0; 0.3176174; 128; 128] Rect_label: bad
 Frame_name: 12248.jpg Frame_number: 905
-Rect_id: 12248 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 12248 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 12250.jpg Frame_number: 906
 Rect_id: 12250 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 12251.jpg Frame_number: 907
-Rect_id: 12251 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
+Rect_id: 12251 Rect_coordinates: [0.1588135; 0; 128; 128] Rect_label: neutral
 Frame_name: 12252.jpg Frame_number: 908
 Rect_id: 12252 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 12256.jpg Frame_number: 909
-Rect_id: 12256 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
+Rect_id: 12256 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 12259.jpg Frame_number: 910
-Rect_id: 12259 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 12259 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 12260.jpg Frame_number: 911
-Rect_id: 12260 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 12260 Rect_coordinates: [0; 0.1588097; 128; 128] Rect_label: bad
 Frame_name: 12262.jpg Frame_number: 912
-Rect_id: 12262 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 12262 Rect_coordinates: [0; 0.7940445; 128; 128] Rect_label: bad
 Frame_name: 12264.jpg Frame_number: 913
 Rect_id: 12264 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 12265.jpg Frame_number: 914
@@ -1834,7 +1834,7 @@ Rect_id: 12267 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 12268.jpg Frame_number: 916
 Rect_id: 12268 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 12269.jpg Frame_number: 917
-Rect_id: 12269 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 12269 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 12270.jpg Frame_number: 918
 Rect_id: 12270 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 12272.jpg Frame_number: 919
@@ -1846,23 +1846,23 @@ Rect_id: 12277 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 12279.jpg Frame_number: 922
 Rect_id: 12279 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 12281.jpg Frame_number: 923
-Rect_id: 12281 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
+Rect_id: 12281 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 12282.jpg Frame_number: 924
 Rect_id: 12282 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 12284.jpg Frame_number: 925
 Rect_id: 12284 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 12288.jpg Frame_number: 926
-Rect_id: 12288 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
+Rect_id: 12288 Rect_coordinates: [0; 0.1588078; 128; 128] Rect_label: neutral
 Frame_name: 12294.jpg Frame_number: 927
 Rect_id: 12294 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 12295.jpg Frame_number: 928
-Rect_id: 12295 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 12295 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 12296.jpg Frame_number: 929
-Rect_id: 12296 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 12296 Rect_coordinates: [0; 0; 133.8759; 129.9057] Rect_label: bad
 Frame_name: 12297.jpg Frame_number: 930
 Rect_id: 12297 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 12298.jpg Frame_number: 931
-Rect_id: 12298 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 12298 Rect_coordinates: [0; 0.1588078; 128; 128] Rect_label: bad
 Frame_name: 12300.jpg Frame_number: 932
 Rect_id: 12300 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 12301.jpg Frame_number: 933
@@ -1870,13 +1870,13 @@ Rect_id: 12301 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 12302.jpg Frame_number: 934
 Rect_id: 12302 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 12303.jpg Frame_number: 935
-Rect_id: 12303 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 12303 Rect_coordinates: [0.1588135; 0; 128; 128] Rect_label: bad
 Frame_name: 12306.jpg Frame_number: 936
-Rect_id: 12306 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
+Rect_id: 12306 Rect_coordinates: [0; 0.1588097; 128; 128] Rect_label: good
 Frame_name: 12308.jpg Frame_number: 937
 Rect_id: 12308 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 12310.jpg Frame_number: 938
-Rect_id: 12310 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 12310 Rect_coordinates: [0.4764252; 0; 128; 128] Rect_label: bad
 Frame_name: 12311.jpg Frame_number: 939
 Rect_id: 12311 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 12314.jpg Frame_number: 940
@@ -1888,27 +1888,27 @@ Rect_id: 12317 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 12321.jpg Frame_number: 943
 Rect_id: 12321 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 12322.jpg Frame_number: 944
-Rect_id: 12322 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 12322 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 12325.jpg Frame_number: 945
-Rect_id: 12325 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
+Rect_id: 12325 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 12327.jpg Frame_number: 946
-Rect_id: 12327 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
+Rect_id: 12327 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 12329.jpg Frame_number: 947
 Rect_id: 12329 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 12331.jpg Frame_number: 948
-Rect_id: 12331 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 12331 Rect_coordinates: [0; 0.1588097; 128; 128] Rect_label: bad
 Frame_name: 12334.jpg Frame_number: 949
 Rect_id: 12334 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 12335.jpg Frame_number: 950
-Rect_id: 12335 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
+Rect_id: 12335 Rect_coordinates: [0; 0.1588097; 128; 128] Rect_label: good
 Frame_name: 12336.jpg Frame_number: 951
 Rect_id: 12336 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 12340.jpg Frame_number: 952
-Rect_id: 12340 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 12340 Rect_coordinates: [0; 0; 128; 128] Rect_label: back
 Frame_name: 12343.jpg Frame_number: 953
 Rect_id: 12343 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 12344.jpg Frame_number: 954
-Rect_id: 12344 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
+Rect_id: 12344 Rect_coordinates: [0; 0.3176174; 128; 128] Rect_label: good
 Frame_name: 12347.jpg Frame_number: 955
 Rect_id: 12347 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 12349.jpg Frame_number: 956
@@ -1916,7 +1916,7 @@ Rect_id: 12349 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 12351.jpg Frame_number: 957
 Rect_id: 12351 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 12356.jpg Frame_number: 958
-Rect_id: 12356 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
+Rect_id: 12356 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 12359.jpg Frame_number: 959
 Rect_id: 12359 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 12361.jpg Frame_number: 960
@@ -1926,7 +1926,7 @@ Rect_id: 12364 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 12367.jpg Frame_number: 962
 Rect_id: 12367 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 12369.jpg Frame_number: 963
-Rect_id: 12369 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 12369 Rect_coordinates: [0; 0.1588078; 128; 128] Rect_label: bad
 Frame_name: 12376.jpg Frame_number: 964
 Rect_id: 12376 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 12377.jpg Frame_number: 965
@@ -1934,11 +1934,11 @@ Rect_id: 12377 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 12378.jpg Frame_number: 966
 Rect_id: 12378 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 12379.jpg Frame_number: 967
-Rect_id: 12379 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
+Rect_id: 12379 Rect_coordinates: [0; 0.1588097; 128; 128] Rect_label: good
 Frame_name: 12381.jpg Frame_number: 968
-Rect_id: 12381 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
+Rect_id: 12381 Rect_coordinates: [0; 0.1588078; 128; 128] Rect_label: back
 Frame_name: 12382.jpg Frame_number: 969
-Rect_id: 12382 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 12382 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 12384.jpg Frame_number: 970
 Rect_id: 12384 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 12387.jpg Frame_number: 971
@@ -1954,9 +1954,9 @@ Rect_id: 12395 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 12396.jpg Frame_number: 976
 Rect_id: 12396 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 12398.jpg Frame_number: 977
-Rect_id: 12398 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
+Rect_id: 12398 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 12399.jpg Frame_number: 978
-Rect_id: 12399 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
+Rect_id: 12399 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 12402.jpg Frame_number: 979
 Rect_id: 12402 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 12403.jpg Frame_number: 980
@@ -1964,15 +1964,15 @@ Rect_id: 12403 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 12404.jpg Frame_number: 981
 Rect_id: 12404 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 12405.jpg Frame_number: 982
-Rect_id: 12405 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 12405 Rect_coordinates: [0; 0.1588097; 128; 128] Rect_label: back
 Frame_name: 12407.jpg Frame_number: 983
-Rect_id: 12407 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
+Rect_id: 12407 Rect_coordinates: [0; 0.1588097; 128; 128] Rect_label: bad
 Frame_name: 12413.jpg Frame_number: 984
 Rect_id: 12413 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 12414.jpg Frame_number: 985
 Rect_id: 12414 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 12415.jpg Frame_number: 986
-Rect_id: 12415 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
+Rect_id: 12415 Rect_coordinates: [0; 0.1588097; 128; 128] Rect_label: good
 Frame_name: 12417.jpg Frame_number: 987
 Rect_id: 12417 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 12418.jpg Frame_number: 988
@@ -1980,17 +1980,17 @@ Rect_id: 12418 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 12419.jpg Frame_number: 989
 Rect_id: 12419 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 12421.jpg Frame_number: 990
-Rect_id: 12421 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 12421 Rect_coordinates: [0; 0; 128; 128] Rect_label: back
 Frame_name: 12423.jpg Frame_number: 991
 Rect_id: 12423 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 12428.jpg Frame_number: 992
 Rect_id: 12428 Rect_coordinates: [0; 0; 128; 128] Rect_label: good
 Frame_name: 12429.jpg Frame_number: 993
-Rect_id: 12429 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 12429 Rect_coordinates: [0; 0.1588078; 128; 128] Rect_label: bad
 Frame_name: 12430.jpg Frame_number: 994
 Rect_id: 12430 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 12431.jpg Frame_number: 995
-Rect_id: 12431 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
+Rect_id: 12431 Rect_coordinates: [0; 0.1588078; 128; 128] Rect_label: neutral
 Frame_name: 12432.jpg Frame_number: 996
 Rect_id: 12432 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 12433.jpg Frame_number: 997
@@ -1998,4 +1998,4 @@ Rect_id: 12433 Rect_coordinates: [0; 0; 128; 128] Rect_label: bad
 Frame_name: 12434.jpg Frame_number: 998
 Rect_id: 12434 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
 Frame_name: 12436.jpg Frame_number: 999
-Rect_id: 12436 Rect_coordinates: [0; 0; 128; 128] Rect_label: neutral
+Rect_id: 12436 Rect_coordinates: [1.588089; 0; 128; 128] Rect_label: neutral
