@@ -1,0 +1,9 @@
+##########################################################
+#sampler parameters (ANY mode)
+#sampler type : additive or multiplicative
+sratex : 20
+sratey : 24
+type : additive 
+minsize : 30
+maxsize : 520
+qstep : 1

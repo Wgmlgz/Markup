@@ -1,0 +1,210 @@
+Frame_width: 64 Frame_height: 1024 First_frame_name: 1 2518 Last_frame_name: 1 5986
+Frame_name: 1 2554.jpg Frame_number: 14
+Rect_id: 1 Rect_coordinates: [0; 334.2222; 77.03704; 125.6295] Rect_label: road
+Frame_name: 1 2555.jpg Frame_number: 15
+Rect_id: 2 Rect_coordinates: [0; 333.037; 65.18519; 118.5185] Rect_label: road
+Frame_name: 1 2556.jpg Frame_number: 16
+Rect_id: 3 Rect_coordinates: [0; 334.2222; 65.18519; 118.5185] Rect_label: road
+Frame_name: 1 2557.jpg Frame_number: 17
+Rect_id: 4 Rect_coordinates: [0; 337.7778; 65.18519; 110.2222] Rect_label: road
+Frame_name: 1 2558.jpg Frame_number: 18
+Rect_id: 5 Rect_coordinates: [0; 337.7778; 65.18519; 110.2222] Rect_label: road
+Frame_name: 1 2559.jpg Frame_number: 19
+Rect_id: 6 Rect_coordinates: [0; 338.963; 65.18519; 114.963] Rect_label: road
+Frame_name: 1 2560.jpg Frame_number: 20
+Rect_id: 7 Rect_coordinates: [211.5556; 213.9259; 65.18519; 114.963] Rect_label: road
+Rect_id: 9 Rect_coordinates: [0; 344.2963; 65.18519; 114.963] Rect_label: road
+Frame_name: 1 2561.jpg Frame_number: 21
+Rect_id: 10 Rect_coordinates: [0; 344.2963; 65.18519; 114.963] Rect_label: road
+Frame_name: 1 2567.jpg Frame_number: 22
+Rect_id: 11 Rect_coordinates: [0; 367.4074; 65.18519; 119.7038] Rect_label: road
+Frame_name: 1 2568.jpg Frame_number: 23
+Rect_id: 12 Rect_coordinates: [0; 368; 65.18519; 120.8889] Rect_label: road
+Frame_name: 1 2569.jpg Frame_number: 24
+Rect_id: 13 Rect_coordinates: [0; 376.8889; 65.18519; 123.2593] Rect_label: road
+Frame_name: 1 2570.jpg Frame_number: 25
+Rect_id: 0 Rect_coordinates: [0; 389.9259; 65.18519; 124.4444] Rect_label: road
+Frame_name: 1 2571.jpg Frame_number: 26
+Rect_id: 14 Rect_coordinates: [0; 394.6667; 65.18519; 120.8889] Rect_label: road
+Frame_name: 1 2572.jpg Frame_number: 27
+Rect_id: 15 Rect_coordinates: [0; 406.5185; 65.18519; 113.7778] Rect_label: road
+Frame_name: 1 2573.jpg Frame_number: 28
+Rect_id: 16 Rect_coordinates: [0; 417.1852; 65.18519; 113.7778] Rect_label: road
+Frame_name: 1 2753.jpg Frame_number: 29
+Rect_id: 17 Rect_coordinates: [0; 465.7778; 67.55556; 61.6297] Rect_label: road
+Rect_id: 19 Rect_coordinates: [0; 1.185185; 67.55556; 85.3334] Rect_label: road
+Rect_id: 20 Rect_coordinates: [0; 552.2963; 62.81482; 266.6667] Rect_label: parking
+Frame_name: 1 2754.jpg Frame_number: 30
+Rect_id: 23 Rect_coordinates: [0; 471.7036; 67.55556; 54.51862] Rect_label: road
+Rect_id: 24 Rect_coordinates: [0; 1.185185; 67.55556; 93.62972] Rect_label: road
+Rect_id: 25 Rect_coordinates: [0; 557.0369; 64; 199.111] Rect_label: parking
+Frame_name: 1 2755.jpg Frame_number: 31
+Rect_id: 26 Rect_coordinates: [0; 475.2592; 67.55556; 54.51862] Rect_label: road
+Rect_id: 27 Rect_coordinates: [0; 0; 67.55556; 101.926] Rect_label: road
+Rect_id: 28 Rect_coordinates: [0; 553.4815; 71.11111; 162.3704] Rect_label: parking
+Rect_id: 35 Rect_coordinates: [100.1481; 318.8148; 67.55556; 101.926] Rect_label: road
+Frame_name: 1 2756.jpg Frame_number: 32
+Rect_id: 29 Rect_coordinates: [0; 480; 67.55556; 54.51862] Rect_label: road
+Rect_id: 30 Rect_coordinates: [0; 593.7778; 64; 119.7037] Rect_label: parking
+Rect_id: 38 Rect_coordinates: [0; 2.370321; 67.55556; 97.18529] Rect_label: road
+Frame_name: 1 2757.jpg Frame_number: 33
+Rect_id: 39 Rect_coordinates: [0; 484.7407; 67.55556; 54.51862] Rect_label: road
+Rect_id: 40 Rect_coordinates: [0; 0; 67.55556; 105.4816] Rect_label: road
+Rect_id: 41 Rect_coordinates: [0; 573.6296; 67.55556; 135.1112] Rect_label: parking
+Frame_name: 1 2758.jpg Frame_number: 34
+Rect_id: 42 Rect_coordinates: [0; 574.8148; 67.55556; 131.5557] Rect_label: parking
+Rect_id: 43 Rect_coordinates: [1.185184; 0; 67.55556; 117.3334] Rect_label: road
+Rect_id: 44 Rect_coordinates: [0; 489.4815; 67.55556; 54.51852] Rect_label: road
+Frame_name: 1 2806.jpg Frame_number: 35
+Rect_id: 45 Rect_coordinates: [0; 545.1852; 67.55556; 100.7408] Rect_label: road
+Rect_id: 46 Rect_coordinates: [0; 18.37033; 67.55556; 120.889] Rect_label: road
+Frame_name: 1 2807.jpg Frame_number: 36
+Rect_id: 47 Rect_coordinates: [0; 558.8148; 67.55556; 91.25934] Rect_label: road
+Rect_id: 48 Rect_coordinates: [0; 29.62963; 67.55556; 110.2223] Rect_label: road
+Frame_name: 1 2808.jpg Frame_number: 37
+Rect_id: 49 Rect_coordinates: [0.5925865; 555.2592; 67.55556; 90.07416] Rect_label: road
+Rect_id: 50 Rect_coordinates: [0; 33.18518; 67.55556; 105.4816] Rect_label: road
+Frame_name: 1 2809.jpg Frame_number: 38
+Rect_id: 51 Rect_coordinates: [0; 557.6295; 67.55556; 104.2964] Rect_label: road
+Rect_id: 52 Rect_coordinates: [0; 34.37037; 67.55556; 98.37048] Rect_label: road
+Frame_name: 1 2810.jpg Frame_number: 39
+Rect_id: 53 Rect_coordinates: [0; 554.074; 67.55556; 88.88898] Rect_label: road
+Rect_id: 54 Rect_coordinates: [0; 28.44444; 67.55556; 106.6668] Rect_label: road
+Frame_name: 1 2811.jpg Frame_number: 40
+Rect_id: 55 Rect_coordinates: [0; 555.2593; 67.55556; 87.70386] Rect_label: road
+Rect_id: 56 Rect_coordinates: [0; 38.51846; 67.55556; 104.2964] Rect_label: road
+Frame_name: 1 2842.jpg Frame_number: 41
+Rect_id: 57 Rect_coordinates: [0; 578.9629; 67.55556; 100.7408] Rect_label: road
+Rect_id: 59 Rect_coordinates: [0; 4.148094; 67.55556; 29.62973] Rect_label: parking
+Rect_id: 60 Rect_coordinates: [0; 52.74069; 67.55556; 100.7408] Rect_label: road
+Frame_name: 1 2843.jpg Frame_number: 42
+Rect_id: 61 Rect_coordinates: [0; 592; 67.55556; 103.1112] Rect_label: road
+Rect_id: 62 Rect_coordinates: [0; 72.88882; 67.55556; 100.7408] Rect_label: road
+Rect_id: 63 Rect_coordinates: [0; 0; 67.55556; 43.85194] Rect_label: parking
+Frame_name: 1 2844.jpg Frame_number: 43
+Rect_id: 64 Rect_coordinates: [30.81482; 586.6667; 35.55557; 123.2593] Rect_label: road
+Rect_id: 65 Rect_coordinates: [0; 69.92593; 67.55556; 92.44453] Rect_label: road
+Rect_id: 67 Rect_coordinates: [0; 0; 75.85186; 41.48159] Rect_label: road
+Frame_name: 1 2845.jpg Frame_number: 44
+Rect_id: 68 Rect_coordinates: [49.77778; 641.1854; 23.70371; 68.74084] Rect_label: road
+Rect_id: 69 Rect_coordinates: [0; 577.1852; 20.14816; 68.74084] Rect_label: road
+Rect_id: 70 Rect_coordinates: [0; 67.55548; 69.92593; 106.6668] Rect_label: road
+Rect_id: 71 Rect_coordinates: [0; 0; 64.00002; 41.48158] Rect_label: parking
+Frame_name: 1 2846.jpg Frame_number: 45
+Rect_id: 72 Rect_coordinates: [1.907349E-06; 589.037; 41.48149; 110.2223] Rect_label: road
+Rect_id: 73 Rect_coordinates: [0; 73.48141; 77.03704; 107.852] Rect_label: road
+Rect_id: 74 Rect_coordinates: [5.925919; 3.555481; 67.55556; 48.5927] Rect_label: parking
+Frame_name: 1 2921.jpg Frame_number: 46
+Rect_id: 75 Rect_coordinates: [0; 650.6666; 68.74075; 42.66681] Rect_label: road
+Rect_id: 76 Rect_coordinates: [0; 149.3333; 72.29631; 93.62973] Rect_label: road
+Frame_name: 1 2922.jpg Frame_number: 47
+Rect_id: 77 Rect_coordinates: [0; 641.7776; 72.29631; 39.11121] Rect_label: road
+Rect_id: 78 Rect_coordinates: [0; 160.5925; 72.29631; 88.88899] Rect_label: road
+Frame_name: 1 2923.jpg Frame_number: 48
+Rect_id: 79 Rect_coordinates: [0; 641.7778; 72.29631; 91.25934] Rect_label: road
+Rect_id: 80 Rect_coordinates: [0; 142.8148; 72.29631; 93.62973] Rect_label: road
+Frame_name: 1 2924.jpg Frame_number: 49
+Rect_id: 81 Rect_coordinates: [0; 642.9628; 72.29631; 90.07422] Rect_label: road
+Rect_id: 82 Rect_coordinates: [0; 140.4444; 72.29631; 93.62973] Rect_label: road
+Frame_name: 1 3010.jpg Frame_number: 50
+Rect_id: 83 Rect_coordinates: [0; 374.5185; 72.29631; 88.88901] Rect_label: road
+Frame_name: 1 3011.jpg Frame_number: 51
+Rect_id: 84 Rect_coordinates: [0; 382.8148; 72.29631; 81.77786] Rect_label: road
+Frame_name: 1 3012.jpg Frame_number: 52
+Rect_id: 85 Rect_coordinates: [0; 385.1852; 72.29631; 77.03714] Rect_label: road
+Frame_name: 1 3143.jpg Frame_number: 53
+Rect_id: 86 Rect_coordinates: [1.185186; 386.3704; 72.29631; 77.03708] Rect_label: road
+Frame_name: 1 3144.jpg Frame_number: 54
+Rect_id: 87 Rect_coordinates: [0; 387.5555; 72.29631; 74.66672] Rect_label: road
+Frame_name: 1 3145.jpg Frame_number: 55
+Rect_id: 88 Rect_coordinates: [0; 397.037; 72.29631; 71.11121] Rect_label: road
+Frame_name: 1 3146.jpg Frame_number: 56
+Rect_id: 89 Rect_coordinates: [0; 407.7037; 72.29631; 67.55563] Rect_label: road
+Frame_name: 1 3147.jpg Frame_number: 57
+Rect_id: 90 Rect_coordinates: [0; 410.0741; 68.74075; 68.74081] Rect_label: road
+Frame_name: 1 3148.jpg Frame_number: 58
+Rect_id: 91 Rect_coordinates: [0; 406.5185; 72.29631; 73.4816] Rect_label: road
+Frame_name: 1 3149.jpg Frame_number: 59
+Rect_id: 92 Rect_coordinates: [0; 412.4445; 72.29631; 65.18524] Rect_label: road
+Frame_name: 1 3150.jpg Frame_number: 60
+Rect_id: 93 Rect_coordinates: [0; 421.9259; 65.1852; 73.4816] Rect_label: road
+Frame_name: 1 3151.jpg Frame_number: 61
+Rect_id: 94 Rect_coordinates: [0; 429.037; 65.1852; 59.25934] Rect_label: road
+Frame_name: 1 3152.jpg Frame_number: 62
+Rect_id: 95 Rect_coordinates: [0; 423.7037; 65.1852; 67.5556] Rect_label: road
+Frame_name: 1 3153.jpg Frame_number: 63
+Rect_id: 103 Rect_coordinates: [0; 429.037; 65.1852; 67.5556] Rect_label: road
+Frame_name: 1 3154.jpg Frame_number: 64
+Rect_id: 104 Rect_coordinates: [0; 424.2963; 65.1852; 72.29636] Rect_label: road
+Frame_name: 1 3155.jpg Frame_number: 65
+Rect_id: 105 Rect_coordinates: [0.5925827; 421.9259; 65.1852; 75.8519] Rect_label: road
+Frame_name: 1 3156.jpg Frame_number: 66
+Rect_id: 106 Rect_coordinates: [0; 423.1111; 65.1852; 74.66675] Rect_label: road
+Frame_name: 1 3157.jpg Frame_number: 67
+Rect_id: 107 Rect_coordinates: [0; 421.9259; 65.1852; 72.29636] Rect_label: road
+Frame_name: 1 3158.jpg Frame_number: 68
+Rect_id: 108 Rect_coordinates: [0; 419.5555; 65.1852; 71.11115] Rect_label: road
+Frame_name: 1 3159.jpg Frame_number: 69
+Rect_id: 109 Rect_coordinates: [0.5925827; 425.4814; 65.1852; 75.85193] Rect_label: road
+Frame_name: 1 3160.jpg Frame_number: 70
+Rect_id: 110 Rect_coordinates: [1.777767; 414.8148; 65.1852; 73.48154] Rect_label: road
+Frame_name: 1 3161.jpg Frame_number: 71
+Rect_id: 111 Rect_coordinates: [0; 420.7407; 65.1852; 66.37042] Rect_label: road
+Frame_name: 1 3274.jpg Frame_number: 72
+Rect_id: 112 Rect_coordinates: [0; 474.0741; 71.11113; 42.66675] Rect_label: road
+Rect_id: 113 Rect_coordinates: [0; 0; 78.22225; 73.48157] Rect_label: road
+Frame_name: 1 3275.jpg Frame_number: 73
+Rect_id: 114 Rect_coordinates: [0; 480; 71.11113; 42.66675] Rect_label: road
+Rect_id: 115 Rect_coordinates: [0; 0; 71.11113; 84.14823] Rect_label: road
+Frame_name: 1 3460.jpg Frame_number: 74
+Rect_id: 116 Rect_coordinates: [0; 456.2963; 71.11113; 42.66675] Rect_label: road
+Rect_id: 117 Rect_coordinates: [0; 2.37037; 71.11113; 64.00009] Rect_label: road
+Rect_id: 118 Rect_coordinates: [0; 560.5928; 71.11113; 55.7038] Rect_label: parking
+Rect_id: 119 Rect_coordinates: [14.22222; 821.3333; 30.81485; 34.37042] Rect_label: parking
+Frame_name: 1 3461.jpg Frame_number: 75
+Rect_id: 120 Rect_coordinates: [0; 465.7778; 71.11113; 50.96301] Rect_label: road
+Rect_id: 121 Rect_coordinates: [0; 0; 71.11113; 77.03712] Rect_label: road
+Rect_id: 122 Rect_coordinates: [1.185184; 547.5555; 71.11113; 42.66675] Rect_label: parking
+Rect_id: 123 Rect_coordinates: [23.70371; 786.9629; 23.70372; 30.81488] Rect_label: parking
+Frame_name: 1 3497.jpg Frame_number: 76
+Rect_id: 124 Rect_coordinates: [0; 395.8518; 71.11113; 64.00006] Rect_label: road
+Rect_id: 125 Rect_coordinates: [0; 506.074; 79.40743; 65.18524] Rect_label: parking
+Rect_id: 126 Rect_coordinates: [16.59259; 919.7037; 26.07409; 26.07422] Rect_label: parking
+Frame_name: 1 3670.jpg Frame_number: 77
+Rect_id: 127 Rect_coordinates: [0; 469.3333; 71.11113; 62.81488] Rect_label: road
+Rect_id: 128 Rect_coordinates: [0; 0; 71.11113; 97.18526] Rect_label: road
+Frame_name: 1 3695.jpg Frame_number: 78
+Rect_id: 129 Rect_coordinates: [0; 525.0369; 71.11113; 82.96301] Rect_label: road
+Rect_id: 130 Rect_coordinates: [1.185184; 81.77778; 71.11113; 99.55565] Rect_label: road
+Frame_name: 1 3743.jpg Frame_number: 79
+Rect_id: 131 Rect_coordinates: [0; 295.1111; 71.11113; 75.85193] Rect_label: road
+Rect_id: 132 Rect_coordinates: [0; 93.62963; 71.11113; 94.81488] Rect_label: road
+Frame_name: 1 3744.jpg Frame_number: 80
+Rect_id: 133 Rect_coordinates: [0; 91.25926; 71.11113; 99.55563] Rect_label: road
+Rect_id: 134 Rect_coordinates: [0; 298.6667; 71.11113; 67.55563] Rect_label: road
+Frame_name: 1 3745.jpg Frame_number: 81
+Rect_id: 135 Rect_coordinates: [0; 98.37037; 71.11113; 98.37045] Rect_label: road
+Rect_id: 136 Rect_coordinates: [0; 301.037; 71.11113; 69.92596] Rect_label: road
+Frame_name: 1 3746.jpg Frame_number: 82
+Rect_id: 138 Rect_coordinates: [0; 292.7408; 71.11113; 69.92599] Rect_label: road
+Rect_id: 139 Rect_coordinates: [0; 91.25926; 71.11113; 94.81487] Rect_label: road
+Frame_name: 1 3747.jpg Frame_number: 83
+Rect_id: 140 Rect_coordinates: [0; 282.0741; 71.11113; 87.7038] Rect_label: road
+Rect_id: 141 Rect_coordinates: [0; 104.2963; 71.11113; 88.88895] Rect_label: road
+Frame_name: 1 5637.jpg Frame_number: 84
+Rect_id: 142 Rect_coordinates: [0; 394.6667; 71.11113; 100.7408] Rect_label: road
+Frame_name: 1 5638.jpg Frame_number: 85
+Rect_id: 143 Rect_coordinates: [0; 394.6667; 71.11113; 106.6668] Rect_label: road
+Frame_name: 1 5639.jpg Frame_number: 86
+Rect_id: 144 Rect_coordinates: [0; 384; 71.11113; 103.1112] Rect_label: road
+Frame_name: 1 5705.jpg Frame_number: 87
+Rect_id: 145 Rect_coordinates: [0; 414.8148; 71.11113; 84.14822] Rect_label: road
+Frame_name: 1 5706.jpg Frame_number: 88
+Rect_id: 146 Rect_coordinates: [0; 418.3704; 71.11113; 82.96307] Rect_label: road
+Rect_id: 147 Rect_coordinates: [15.40741; 907.8519; 27.25928; 34.37048] Rect_label: parking
+Frame_name: 1 5752.jpg Frame_number: 89
+Rect_id: 148 Rect_coordinates: [0; 419.5555; 71.11113; 64.00012] Rect_label: road
+Rect_id: 149 Rect_coordinates: [0; 539.2592; 71.11113; 54.51855] Rect_label: parking
+Rect_id: 150 Rect_coordinates: [22.51852; 726.5185; 22.51853; 36.74078] Rect_label: parking
+Frame_name: 1 5986.jpg Frame_number: 90
+Rect_id: 151 Rect_coordinates: [0; 394.6667; 71.11113; 79.40756] Rect_label: road

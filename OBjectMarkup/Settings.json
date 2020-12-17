@@ -1,0 +1,34 @@
+{
+  "Arround Detector": {
+    "pos_loc_finder_search_region_w_coeff": 3.0,
+    "pos_loc_finder_search_region_h_coeff": 3.0,
+    "pos_loc_finder_sw_step_x_fraction": 0.125,
+    "pos_loc_finder_sw_step_y_fraction": 0.125,
+    "pos_loc_finder_iou_thresh": 0.1,
+    "det_similarity_thresh": 0.5
+  },
+  "Fast Name": [
+    "chick",
+    "lay",
+    "big_burr",
+    "burr",
+    "roughness",
+    "car_6",
+    "car_7",
+    "car_8",
+    "",
+    "",
+    "",
+    "",
+    "lay",
+    "chick",
+    "red",
+    "chick",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "lay"
+  ]
+}
